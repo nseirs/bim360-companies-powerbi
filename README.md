@@ -1,5 +1,5 @@
 # bim360-companies-powerbi
-R script that uses 2-legged OAuth and BIM 360 API to extract companies' data from BIM 360 Account Administration
+R script that uses 2-legged OAuth and BIM 360 API to extract companies' data from [BIM 360 Account Administration](https://admin.b360.autodesk.com/login)
 
 [![R](http://img.shields.io/:R-v3.4.1-blue.svg)](https://www.r-project.org/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-v2.51-blue.svg)](http://powerbi.microsoft.com/)
