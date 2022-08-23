@@ -40,7 +40,7 @@ Before executing the R script from the **Export BIM360 Company Data.R** file, in
 * Click Ok and select **BIM360_Company_Data** table to load it to PowerBI
 
 ## Power BI Template
-To test how this R script works in Power BI, downlaod the following [PowerBI Template for BIM 360 Company Data.pbit](http://autode.sk/bim360companiestemplate)
+To test how this R script works in Power BI, downlaod the following [PowerBI Template for BIM 360 Company Data.pbit](https://github.com/nseirs/bim360-companies-powerbi/blob/master/PowerBI%20Template%20for%20BIM%20360%20Company%20Data.pbit?raw=true)
 
 To run this template, you need  **Client ID**, **Client Secret**, and **BIM 360 Account ID** from steps 1 & 2 in [**Setup**](#setup) and you need to setup R as per step 3 in [**Setup**](#setup).
 
